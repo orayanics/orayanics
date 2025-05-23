@@ -1,14 +1,9 @@
 <h1 align="left">🍊 Nicole Oraya</h1>
 
-###
-
-<br clear="both">
-
-<img align="right" height="201" src="https://i.pinimg.com/originals/1c/02/58/1c0258efc7cea17d85a472a302c2a9b3.gif"  />
 
 ###
 
-<h6 align="left">I'm a frontend developer and I believe in creative and robust solutions in building the web. I'm currently learning and upskilling as a junior developer. Mostly here for the vibes and good music.</h6>
+<p align="left">I'm a frontend developer and I believe in creative and robust solutions in building the web. I'm currently learning and upskilling as a junior developer. Mostly here for the vibes and good music.</p>
 
 ###
 

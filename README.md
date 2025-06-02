@@ -1,5 +1,7 @@
 <h1 align="left">🍊 Nicole Oraya</h1>
+<br clear="both">
 
+<img align="right" height="201" src="https://media.tenor.com/NyhYYxpnkdYAAAAM/kpop-kpop-happy.gif"  />
 
 ###
 

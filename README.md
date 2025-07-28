@@ -9,11 +9,11 @@
 
 ###
 
-<p align="left">Aside from coding, I also take interest in video editing, graphics design, books, and photography (especially nature and the sky). I take most inspiration from the different medias I consume.</p>
+<p align="left">Aside from coding, I also take interest in video editing, graphics design, books, and photography. I take most inspiration from the different medias I consume.</p>
 
 ###
 
-<p align="left">Love TWICE, Red Velvet, and aespa. And this cute and handsome pomerian dog Stark.</p>
+
 
 ###
 

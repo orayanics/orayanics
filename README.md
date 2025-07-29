@@ -1,19 +1,11 @@
-<h1 align="left">🍊 Nicole Oraya</h1>
+<h1 align="left">🍊 web dev</h1>
 <br clear="both">
 
-<img align="right" height="201" src="https://media.tenor.com/NyhYYxpnkdYAAAAM/kpop-kpop-happy.gif"  />
+<img align="right" height="201" src="https://media.tenor.com/KW0ZgLnnvpEAAAAM/heophamz-katseye.gif"  />
 
 ###
 
-<p align="left">I'm a frontend developer and I believe in creative and robust solutions in building the web. I'm currently learning and upskilling as a junior developer. Mostly here for the vibes and good music.</p>
-
-###
-
-<p align="left">Aside from coding, I also take interest in video editing, graphics design, books, and photography. I take most inspiration from the different medias I consume.</p>
-
-###
-
-
+<p align="left">i currently do web development as a junior fe. mostly here for the vibes and good music. i also do video editing, graphics design, and photography!</p>
 
 ###
 
@@ -22,8 +14,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -32,15 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###

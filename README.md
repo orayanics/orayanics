@@ -1,7 +1,7 @@
 <h1 align="left">🍊 web dev</h1>
 <br clear="both">
 
-<img align="right" height="201" src="https://media.tenor.com/KW0ZgLnnvpEAAAAM/heophamz-katseye.gif"  />
+<img align="right" height="201" src="https://media1.tenor.com/m/7o7UPLMFdkoAAAAd/sophia-nerd-nerdphia.gif"  />
 
 ###
 

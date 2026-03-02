@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>🍊 web dev</h1>
 
-<!--
-**orayanics/orayanics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img align="right" height="480px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDMyaDZvYm1scHlxOTE2aHN4a2FmNnZjMWs2Z211cGpoOGJ3dDNjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E0yTpDqB3AI8fv8WsB/giphy.gif"  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p>maayong buhay fyn syt</p>
+
+-   coding stuff
+-   and music ig
+
+###

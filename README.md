@@ -6,7 +6,7 @@
 
 ###
 
-<p>maayong buhay fyn syt</p>
+<p>maayong buhay</p>
 
 -   coding stuff
 -   and music ig
